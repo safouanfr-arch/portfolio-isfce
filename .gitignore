@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.fdb
+.Rhistory
+.RData
+reports/
+.Rproj.user/
