@@ -7,7 +7,7 @@
 
 ## Systems administration
 
-- The disaster recovery assignment designed a recovery plan for DocuSafe Services, a fictional company. It covers backups, service restoration and recovery procedures.
+- The disaster recovery assignment designed a recovery plan for DocuSafe Services, a fictional company. It covers backups, service restoration and recovery procedures. [DocuSafe case study](../disaster-recovery/)
 - A separate systems administration assignment was delivered as a Packet Tracer lab. The smaller topology in the [networking section](../networking/) comes from the IPv4 subnet assignment.
 
 ## Spring dependency injection
