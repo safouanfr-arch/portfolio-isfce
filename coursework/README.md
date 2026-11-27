@@ -5,4 +5,11 @@
 - The [modelling section](../modelling/) covers the Merise and GanttProject exercises.
 - The [4IPW3 repository](https://github.com/safouanfr-arch/4IPW3) contains earlier HTML/CSS and Vue press mockups. The complete press application is in [Projet-Web](https://github.com/safouanfr-arch/Projet-Web).
 
-The collection references the course context while publishing selected runnable exercises and design examples. Raw course handouts, teacher corrections, assessment files and software installers are kept outside the portfolio.
+## Systems administration
+
+- The disaster recovery assignment designed a recovery plan for DocuSafe Services, a fictional company. It covers backups, service restoration and recovery procedures.
+- A separate systems administration assignment was delivered as a Packet Tracer lab. The smaller topology in the [networking section](../networking/) comes from the IPv4 subnet assignment.
+
+## Spring dependency injection
+
+The Hi-Fi lab used Java configuration to assemble an amplifier, radio tuner, single-disc player and multi-disc player. The configuration used `@Qualifier` to select a source, `@Primary` to provide a default, and the `jukebox` profile to switch the setup. The tuner used prototype scope to give each requested tuner a separate instance.
