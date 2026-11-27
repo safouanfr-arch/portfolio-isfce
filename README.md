@@ -11,6 +11,7 @@ Course and graduation projects by Safouan Tassi, with reproducible labs and sele
 | [Statistics in R](statistics/) | Descriptive statistics, simulation, regression and inference |
 | [Networking](networking/) | IPv4 subnet calculations and a Packet Tracer practice topology |
 | [Modelling and planning](modelling/) | Relational modelling and project dependencies |
+| [DocuSafe disaster recovery plan](disaster-recovery/) | Business impact, recovery steps and validation criteria for a fictional case study |
 | [Other course exercises](coursework/) | Python selection, disaster recovery and Spring configuration |
 
 The e-commerce [front-end prototype](https://github.com/safouanfr-arch/DEMO-E-COMMERCE) and [SQL design](https://github.com/safouanfr-arch/SQL-DB-Site-E-commerce) document earlier iterations of Terra Sana. The [ULB programming portfolio](https://github.com/safouanfr-arch/portfolio-ulb) covers C, Python and Bash projects from a separate course program.
