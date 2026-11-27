@@ -3,7 +3,7 @@
 - [Selection and ordering](selection.py) adapts a Python puzzle that shuffled items, selected the main category and sorted by priority and weight. Run `python3 coursework/selection.py`.
 - The [networking section](../networking/) covers the IPv4 subnet assignment and a Packet Tracer reproduction.
 - The [modelling section](../modelling/) covers the Merise and GanttProject exercises.
-- The [4IPW3 repository](https://github.com/safouanfr-arch/4IPW3) contains earlier HTML/CSS and Vue press mockups. The complete press application is in [Projet-Web](https://github.com/safouanfr-arch/Projet-Web).
+- The public press application includes Vue, PHP and a self-contained SQLite demo. [Presse Océan](https://github.com/safouanfr-arch/Projet-Web)
 
 ## Systems administration
 
